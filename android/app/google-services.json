@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619674404650",
+    "project_id": "hackfest-demo-1",
+    "storage_bucket": "hackfest-demo-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619674404650:android:e005d4f9d9f08ab52b8053",
+        "android_client_info": {
+          "package_name": "com.example.hackfest_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS-3lYpMmUQEZyu9ZH_euxGfMEZhVysj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
